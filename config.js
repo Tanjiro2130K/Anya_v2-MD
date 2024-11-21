@@ -57,9 +57,9 @@ module.exports = {
         private: 'This command is only for private chats 🪽',
         wait: 'going on 👾',
         error: "ahh 🥲 An error occurred while processing your request. Please try again later.",
-        ban: `You're banned from using this bot!`,
+        ban: `You're banned from using this bot 😒`,
         nsfw: 'This group is not *NSFW* enabled.',
-        banChat: 'This group is banned from using this bot, please contact owner to get unbanned.'
+        banChat: 'This group is banned from using this bot, please contact owner to get unbanned 🥱'
     },
     Port: process.env.Port || "8080",
 
